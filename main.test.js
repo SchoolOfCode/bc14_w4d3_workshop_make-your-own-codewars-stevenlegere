@@ -27,7 +27,7 @@ test('should return an empty array if the input is an empty array', () => {
 });
 
 // Test #3
-test('should return an array of length 1 if the input is a single number', () => {
+test('should return the correct number of buses for a single input value', () => {
     const numberOfPeople = [248];
     const expected = [10];
     const actual = howManyBuses(numberOfPeople);
