@@ -1,7 +1,6 @@
 # Make your own CodeWars
-
-You've spent the past few weeks solving katas on CodeWars, and you might think that they're written by an elite cabal of software geniuses (or not if you've run across a few less-than-stellar katas!). Not so - they're written by ordinary programmers, and you're now officially School of Code-qualified to join in and give writing your own a try.
-
+🚌        🚌       🚌       🚌
+A party bus can hold 25 passengers, allowing 25 people to travel. Given (numberOfPeople), return how many buses are needed to seat everyone.
 ### Step 1: Write your kata
 
 Think of your scenario - be as creative as you like - and then focus on communicating the situation you've devised. You'll have noticed that some katas have examples or additional information where needed, so add any info your CodeWarriors will need. Strike the right balance though, as you don't want to give them too much or too little information. It needs to stay a challenge, but it shouldn't be impossible!
